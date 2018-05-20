@@ -1,0 +1,14 @@
+Interactivity Writeup
+================
+Lucia Delgado
+20 de mayo de 2018
+
+According to the OECD, one third of Mexicans older than 15 years suffer from some degree of obesity and the obesity rate among children is the highest in the world. Consequently, obesity-related diseases have become a public health concern in the country. Sugar-Sweetened Beverages (SSB) -carbonated liquids that include sodas and fruit drinks- are a major contributor to obesity. The World Health Organization established that one of the main strategies to prevent chronic diseases is to find "ways to reduce the intake of sugar-sweetened drinks" and the Instituto Nacional de Salud Publica (National Institute of Public Health) states "scientific evidence is conclusive: sugary drinks cause harm to health".
+
+This app is designed to assist policymakers in the design of interventions to reduce the consumption of SSBs in Mexico. As the main demographic characteristic to target different audiences is age, the app allows customizing the age range for which tendencies on nutritional perceptions are displayed.
+
+Interactivity allows the user to select the age range for which information will be displayed, allowing to observe tendencies for different potential targeted populations.
+
+I focus on showing data on three questions from the Mexican National Health Survey ENSANUT: "How often do you drink sweetened beverages?", "How capable do you feel about consuming one or fewer glasses of Sugar-Sweetened Beverages per week?", and "Which of the following benefits of eating healthy do you consider more important?". Extensions to other questions of interest to policymakers can be easily included in the app.
+
+Since the goal is to provide information on which answers are more common among the specified population, a bar plot allows displaying this information in a clear and simple way that is easy to interpret by the reader. A different plot is constructed for each question to avoid potential misinterpretation issues. Regarding the design of the app, I decided to use Panels to display each plot. This allows all the information to be included on the screen, without requiring the user to scroll down.
